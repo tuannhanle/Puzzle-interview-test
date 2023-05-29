@@ -1,0 +1,21 @@
+{
+  "name": "Gameplay",
+  "rootNamespace": "Scripts",
+  "references": [
+    "VContainer",
+    "UniTask",
+    "NaughtyAttributes.Core",
+    "Mics",
+    "Infrastructure",
+    "ScriptableObjects"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

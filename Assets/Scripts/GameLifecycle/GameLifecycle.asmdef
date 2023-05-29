@@ -1,0 +1,19 @@
+{
+  "name": "GameLifecycle",
+  "rootNamespace": "Scripts",
+  "references": [
+    "VContainer",
+    "Gameplay",
+    "Infrastructure",
+    "Mics"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
